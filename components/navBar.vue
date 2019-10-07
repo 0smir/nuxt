@@ -6,6 +6,7 @@
     <nuxt-link class="nav-link" active-class="active" to="/services">Services</nuxt-link>
     <nuxt-link class="nav-link" active-class="active" to="/contacts">Contacts</nuxt-link>
     <nuxt-link class="nav-link" active-class="active" to="/users">Users</nuxt-link>
+    <nuxt-link class="nav-link" active-class="active" to="/login">Login</nuxt-link>
   </nav>
 </template>
 
@@ -23,7 +24,7 @@
       color: green;
     }
     .active{
-      background: red;
+      background: pink;
 
     }
   }

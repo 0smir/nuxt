@@ -23,9 +23,9 @@
 
             this.users_list = {
                users:[
-                   {id: 0, user_name: 'Оля'},
-                   {id: 1, user_name: 'Слава'},
-                   {id: 2, user_name: 'Чипалино'}
+                   {id: 1, user_name: 'Оля'},
+                   {id: 2, user_name: 'Слава'},
+                   {id: 3, user_name: 'Чипалино'}
                ]
             };
             return this.users_list;
